@@ -1,0 +1,4 @@
+tls:
+  certificates:
+    - certFile: /certs/registry.lab.lan-crt.pem
+      keyFile: /certs/registry.lab.lan-key.pem
